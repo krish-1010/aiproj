@@ -35,3 +35,12 @@ a:visited{
 .f img{
     border-radius: 1rem;
 }
+
+.sf{
+    justify-content: space-between;
+    gap: 10rem;
+}
+
+.sf img{
+    margin-top: 40px;
+}
